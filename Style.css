@@ -1,0 +1,32 @@
+body{
+  background-color:black;
+  text-align: center;
+}
+h2{
+  color: green;
+  font-family: OCR A Std, monospace;
+}
+
+h1{
+    color: Green;
+    font-family: OCR A Std, monospace;
+}
+
+p{
+  color: green;
+  font-family: OCR A Std, monospace;
+}
+
+<html>
+<head>
+<style>
+a:hover {
+    background-color: yellow;
+}
+</style>
+</head>
+<body>
+
+<a href="file:///Users/block5/Desktop/digital_citizenship.png">file:///Users/block5/Desktop/digital_citizenship.png</a>
+
+</body>
