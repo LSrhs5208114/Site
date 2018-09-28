@@ -8,7 +8,7 @@ h2{
 }
 
 h1{
-    color: Green;
+    color: green;
     font-family: OCR A Std, monospace;
 }
 
@@ -17,9 +17,6 @@ p{
   font-family: OCR A Std, monospace;
 }
 
-<html>
-<head>
-<style>
 a:hover {
     background-color: yellow;
 }
