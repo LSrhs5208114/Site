@@ -1,0 +1,12 @@
+<html>
+<head>
+<title>This is an interactive story with ten pages I made.</title>
+<link rel="stylesheet" href="file:///Users/block5/Desktop/Site/interactive_story_stylesheet.css">
+</head>
+
+<body>
+<p>You go to the entrance of the class with fifteen minutes left.</p>
+<img src="walking_in_school.jpeg" width="265px">
+<p>Do you:<a href="file:///Users/block5/Desktop/Site/Interactive%20story/interactive_story_page8">Try to make the homework up on the spot</a> or <a href="file:///Users/block5/Desktop/Site/Interactive%20story/interactive_story_page10"> Explain to your teacher</a>?</p>
+</body>
+</html>

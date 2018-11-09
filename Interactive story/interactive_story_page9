@@ -1,0 +1,12 @@
+<html>
+<head>
+<title>This is an interactive story with ten pages I made.</title>
+<link rel="stylesheet" href="file:///Users/block5/Desktop/Site/interactive_story_stylesheet.css">
+</head>
+
+<body>
+<p>You walk up to your teacher and hand in the homework. When you get your homework back later in the week, you see that out of the ten questions you answered, you got only three correct. You got a big fat F, which brings your grade down from a 63% to a 46% as each homework point was worth one grade point.</p>
+<img src="homework-F.jpeg" width="265px">
+<p><a href="file:///Users/block5/Desktop/Site/Interactive%20story/interactive_story_index.html">Back to the beginning</a>
+</body>
+</html>

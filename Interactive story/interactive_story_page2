@@ -1,0 +1,12 @@
+<html>
+<head>
+<title>This is an interactive story with ten pages I made.</title>
+<link rel="stylesheet" href="file:///Users/block5/Desktop/Site/interactive_story_stylesheet.css">
+</head>
+
+<body>
+<p>You call your mom and she picks up. She asks if you need something.</p>
+<img src="cartoon-image-of-cellphone-icon-smartphone-vector-15659675.jpg" width="210px">
+<p>Do you:<a href="file:///Users/block5/Desktop/Site/Interactive%20story/interactive_story_page4">Ask her to bring your homework</a> or<a href="file:///Users/block5/Desktop/Site/Interactive%20story/interactive_story_page6"> Tell her you feel sick and ask if she can bring you home</a>?</p>
+</body>
+</html>

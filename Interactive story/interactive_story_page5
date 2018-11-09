@@ -1,0 +1,12 @@
+<html>
+<head>
+<title>This is an interactive story with ten pages I made.</title>
+<link rel="stylesheet" href="file:///Users/block5/Desktop/Site/interactive_story_stylesheet.css">
+</head>
+
+<body>
+<img src="homework.png" width="285px">
+<p>You get to class 6 minutes late, but at least you have your homework. You show your teacher your pass and you hand in the homework. Later that week, you get the homework back. On the paper you see a big red A+. A perfect score.
+<p> <a href="file:///Users/block5/Desktop/Site/Interactive%20story/interactive_story_index.html">Go back to start</a></p>
+</body>
+</html>

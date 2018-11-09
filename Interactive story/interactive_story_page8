@@ -1,0 +1,12 @@
+<html>
+<head>
+<title>This is an interactive story with ten pages I made.</title>
+<link rel="stylesheet" href="file:///Users/block5/Desktop/Site/interactive_story_stylesheet.css">
+</head>
+
+<body>
+<p>You do not finish making up the homework before class starts, and you have only done half the paper, and you tride to do it from memory. You are worried about handing it in.</p>
+<img src="handing-homework-in/harry-potter.jpeg" width="265px">
+<p>Do you:<a href="file:///Users/block5/Desktop/Site/Interactive%20story/interactive_story_page9">Hand in the "Homework"</a>
+</body>
+</html>

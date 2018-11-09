@@ -1,0 +1,13 @@
+<html>
+<head>
+<title>This is an interactive story with ten pages I made.</title>
+<link rel="stylesheet" href="file:///Users/block5/Desktop/Site/interactive_story_stylesheet.css">
+<a href"file:///Users/block5/Desktop/Site/interactive_story_page2">
+</head>
+
+<body>
+<p>When your mom arrives, she hands you your paper and leaves. You go up to the front desk and get a late pass.</p>
+<img src="late-slip.png" width="210px">
+<p>Do you:<a href="file:///Users/block5/Desktop/Site/Interactive%20story/interactive_story_page5"> Go to class with your homework with a late pass</a></p>
+</body>
+</html>

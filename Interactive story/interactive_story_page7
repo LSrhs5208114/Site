@@ -1,0 +1,12 @@
+<html>
+<head>
+<title>This is an interactive story with ten pages I made.</title>
+<link rel="stylesheet" href="file:///Users/block5/Desktop/Site/interactive_story_stylesheet.css">
+</head>
+
+<body>
+<img src="detention-slip.jpeg" width="285px">
+<p>You hop in the car and drive home. You spend the rest of the day eating, playing video games, and watching TV. When you get back to school though, you find out that you are charged with skipping class for a third time, so you get detention, and you have failed your History class.</p>
+<p><a href="file:///Users/block5/Desktop/Site/Interactive%20story/interactive_story_index.html">Go back to start</a></p>
+</body>
+</html>
